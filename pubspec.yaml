@@ -2,7 +2,7 @@ name: flutter_babacar_card
 description: Cette plugin vous permet d'afficher de jolis CARDs
 version: 0.0.1
 # author:
-homepage:
+homepage: https://github.com/Babacar-arch/FlutterBabacarCard.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
